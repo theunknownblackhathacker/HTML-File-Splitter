@@ -2,7 +2,7 @@ HTML File Splitter 📝✨
 
 This simple Python script helps you split a large HTML file into smaller parts while keeping the `<head>` section intact. It's perfect if you have a big webpage and want to break it into smaller, more manageable pieces.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📌 What This Script Does
+📌 What This Script Does:
 ✅ Reads an HTML file from your computer  
 ✅ Extracts the `<head>` section (keeps it the same in all parts)  
 ✅ Splits the `<body>` content into smaller parts  
@@ -10,7 +10,7 @@ This simple Python script helps you split a large HTML file into smaller parts w
 
 No extra software or libraries needed—just plain Python! 🐍💡
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🛠️ How to Use It
+🛠️ How to Use It:
 1️⃣ Install Python (if you don’t have it)
 Make sure you have Python 3 installed. You can check by opening a terminal or command prompt and typing:
 python --version
