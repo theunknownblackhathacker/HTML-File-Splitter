@@ -14,7 +14,7 @@ No extra software or libraries needed—just plain Python! 🐍💡
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1️⃣ Install Python (if you don’t have it).
 
-Make sure you have Python 3 installed. You can check by opening a terminal or command prompt and typing:
+Make sure you have Python 3 installed! You can check by opening a terminal or command prompt and typing:
 
 python --version
 
@@ -79,4 +79,5 @@ Make sure your HTML file has a <body> section for best results.
 You have successfully split your HTML file into smaller parts. 🚀
 
 If you found this helpful, you can star it!😁💻✨
+
 
